@@ -11,4 +11,4 @@ Olá! Meu nome é _**Eduardo**_.
 - eduardo.burdulis@escola.pr.gov.br   **@eduardoburdulis**
 
 
-![](https://media.tenor.com/RQ4jMBt6u5EAAAAC/heart-national-geographic.gif)
+![](https://media.tenor.com/qpBgguPOGPwAAAAC/think-thiinking-about-hive.gif)
