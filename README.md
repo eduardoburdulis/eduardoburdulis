@@ -8,7 +8,8 @@ Olá! Meu nome é _**Eduardo**_.
 
 ### Você pode entrar em contato comigo 🇧🇷
 
-- eduardo.burdulis@escola.pr.gov.br   **@eduardoburdulis**
+- eduardo.burdulis@escola.pr.gov.br
+- **@eduardoburdulis**
 
 
 ![](https://media.tenor.com/qpBgguPOGPwAAAAC/think-thiinking-about-hive.gif)
