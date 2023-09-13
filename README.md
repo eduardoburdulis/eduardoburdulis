@@ -6,4 +6,9 @@ Olá! Meu nome é _**Eduardo**_.
 - Estou me desenvolvendo na linguagem _JavaScript._
 - _Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos._
 
-  ![](https://media.tenor.com/1nVYCFL34r8AAAAC/3minutes.gif)
+### Você pode entrar em contato comigo 🇧🇷
+
+- eduardo.burdulis@escola.pr.gov.br   **@eduardoburdulis**
+
+
+![](https://media.tenor.com/RQ4jMBt6u5EAAAAC/heart-national-geographic.gif)
