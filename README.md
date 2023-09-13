@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @eduardoburdulis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas vindas ao meu perfil. 🖤
 
+Olá! Meu nome é _**Eduardo**_.
 
-**eduardoburdulis/eduardoburdulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
+- Estou estudando na _Alura._
+- Estou me desenvolvendo na linguagem _JavaScript._
